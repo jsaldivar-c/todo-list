@@ -1,6 +1,6 @@
 # Lista de Tareas | JavaScript
 
-![To-Do List](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601950633/to-do-lidt-javascript_q6ftaf.png "To-Do List")
+![To-Do List](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601950633/GitHub/to-do-lidt-javascript_q6ftaf.png "To-Do List")
 
 ### **¿Como usar la lista de tareas?**
 
